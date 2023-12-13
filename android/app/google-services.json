@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593166936056",
+    "project_id": "lab4-truong-c0c9e",
+    "storage_bucket": "lab4-truong-c0c9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593166936056:android:848f65dd4f072e2cf5580d",
+        "android_client_info": {
+          "package_name": "com.lab4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC64zWXj95XTcrcO4ziLTbRjKKRPxqlrTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
